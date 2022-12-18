@@ -4,3 +4,5 @@ Rename test
 
 success
 
+vim test
+
