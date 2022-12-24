@@ -17,6 +17,11 @@ vim test
 5. **git log** - show all versions
 6. **git checkout 'version'** - move to other version
 7. **git checkout master** - move to newest version
+8. **git branch** - show branches
+9. **git branch branch_name** - add new branch
+10. **git checkout branch_name** - move to other branch
+11. **clear** - clear terminal
+
 
 # Работа с файлом
 1. ** - *Курсив*
