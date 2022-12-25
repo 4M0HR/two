@@ -18,9 +18,14 @@ vim test
 6. **git checkout 'version'** - move to other version
 7. **git checkout master** - move to newest version
 8. **git branch** - show branches
-9. **git branch branch_name** - add new branch
-10. **git checkout branch_name** - move to other branch
-11. **clear** - clear terminal
+9. **git branch (branch name)** - add new branch
+10. **git checkout (branch name)** - move to other branch
+11. **git branch -d (branch name)** - delete branch
+12. **git merge (branch name)** - unite branch with master
+13. **git rm (file)** - remove file from folder
+14. **clear** - clear terminal
+15. **git log --graph** - view commit branches
+
 
 
 # Работа с файлом
