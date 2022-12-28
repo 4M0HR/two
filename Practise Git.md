@@ -51,3 +51,5 @@ text from branch2
 text from branch3
 
 text from branch4
+
+text from branch_for_conflict
