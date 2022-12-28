@@ -47,3 +47,6 @@ https://belousovv.ru/markdown_syntax весь синтаксис .md
 text from branch 1
 
 text from branch2
+
+text from branch3
+
