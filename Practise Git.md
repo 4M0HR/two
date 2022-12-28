@@ -40,3 +40,6 @@ vim test
 https://habr.com/ru/post/541258/ Ссылка на полный гайд по git для новичков
 
 https://belousovv.ru/markdown_syntax весь синтаксис .md
+
+# Домашнее задание
+
