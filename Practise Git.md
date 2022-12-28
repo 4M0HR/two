@@ -54,3 +54,4 @@ text from branch4
 
 
 text for conflict
+text from branch_for_conflict
