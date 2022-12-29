@@ -31,9 +31,9 @@ vim test
 
     **git push -u origin main**
 
-    push local repository to github gor the
+    send local repository to github
 
-17. 
+17. **git pull** - download github repository
 
 
 # Работа с файлом
