@@ -25,7 +25,15 @@ vim test
 13. **git rm (file)** - remove file from folder
 14. **clear** - clear terminal
 15. **git log --graph** - view commit branches
+16. **git remote add origin "code"**
 
+    **git branch -m main**
+
+    **git push -u origin main**
+
+    push local repository to github gor the
+
+17. 
 
 
 # Работа с файлом
@@ -55,5 +63,3 @@ text from branch4
 
 text for conflict
 text from branch_for_conflict
-
-тестовый эдит
